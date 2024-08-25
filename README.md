@@ -1,1 +1,3 @@
-# mongo
+
+Important: The node_modules folder is not included in this repository. To run the project, 
+please run npm install in the root directory to install the required dependencies...
